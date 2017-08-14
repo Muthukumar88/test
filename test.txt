@@ -1,2 +1,2 @@
 Testing git version control with branches
-Changes in master
+Changes in Master
